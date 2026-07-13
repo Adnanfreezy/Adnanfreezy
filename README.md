@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Adnan</h1>
 <h3 align="center">A passionate Computing student & builder from Sri Lanka 🇱🇰</h3>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Android+%7C+Embedded+Systems;Building+SafeLink+-+Phishing+URL+Detector;Faculty+of+Computing+%26+Technology%2C+UoK" alt="Typing SVG" />
 </p>
