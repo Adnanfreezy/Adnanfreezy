@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Adnan</h1>
 <h3 align="center">A passionate Computing student & builder from Sri Lanka 🇱🇰</h3>
- 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Android+%7C+Embedded+Systems;Building+SafeLink+-+Phishing+URL+Detector;Faculty+of+Computing+%26+Technology%2C+UoK" alt="Typing SVG" />
 </p>
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -81,16 +80,6 @@ A lightweight Android-based phishing URL detection system, built for Group 18 un
 A skill-exchange platform where users **share their own skills and receive new ones in return**, using a credit-based system. Built with a Node.js backend (`app.js`, `db.js`) and a browser-based frontend (`index.html`, `index.css`).
 
 - Language mix: **JavaScript 48.7%**, **HTML 36.2%**, **CSS 15.1%**
-
----
-
-#### 🔥 Smart LPG Safety System
-<p>
-  <img src="https://img.shields.io/badge/Platform-Arduino%2FESP32-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Mechatronics-blueviolet?style=flat-square" />
-</p>
-
-An Arduino/ESP32-based safety system using an MQ-6 gas sensor and an MG995 servo motor to physically rotate a gas regulator knob and shut off the supply the moment a leak is detected.
 
 ---
 
